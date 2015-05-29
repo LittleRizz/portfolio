@@ -2,10 +2,10 @@ import os
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'blog_analytics',
+        'NAME': '',
         'HOST': 'localhost',
-        'USER': 'blog_analytics',
-        'PASSWORD': 'maplewood'
+        'USER': '',
+        'PASSWORD': ''
     }
 }
 
@@ -14,4 +14,4 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 STATIC_URL = '/static/'
 
 DEBUG = FALSE
-ALLOWED_HOSTS = ['ec2-54-191-62-151.us-west-2.compute.amazonaws.com']
+ALLOWED_HOSTS = ['']
