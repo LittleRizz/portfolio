@@ -1,2 +1,2 @@
 # Portfolio Template
-Starter portfolio template for RocketU students. Credit to [Mark Dotto](http://markdotto.com/).
+Basically, a starter portfolio to demonstrate how awesome I am.  That's all.  :-)
